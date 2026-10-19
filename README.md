@@ -10,7 +10,7 @@ Esses links sempre entregam a versão mais recente. Para manter seus dados, inst
 
 ## Atualizar
 
-A partir da versão 0.8.1, Windows e Android avisam quando há uma nova versão e oferecem o botão **Atualizar**. A consulta também está em **Configurações → Atualizações**.
+A partir da versão 0.8.2, Windows e Android avisam quando há uma nova versão e oferecem o botão **Atualizar**. A consulta também está em **Configurações → Atualizações**.
 
 No Android, permita a instalação pelo DetonaTV e confirme a atualização na tela do sistema. Pode ser necessário tocar em Atualizar novamente depois de conceder a permissão.
 
